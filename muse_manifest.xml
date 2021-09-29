@@ -1,0 +1,290 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="typeprofessor.com" resolutions="1x" timestamp="1563516646406">
+  <folder name="css">
+    <file name="site_global.css" crc="4293498195"/>
+    <file name="master_main-master.css" crc="70250169" ref="index:lyndale:millennial:pangrams:modern:ambicase:feneon:backflip:strooptest:classification"/>
+    <file name="nomq_preview_master_main-master.css" crc="279329180" ref="index:lyndale:millennial:pangrams:modern:ambicase:feneon:backflip:strooptest:classification"/>
+    <file name="master_pangram-master.css" crc="4157332072" ref="pangrams"/>
+    <file name="nomq_preview_master_pangram-master.css" crc="3824530138" ref="pangrams"/>
+    <file name="index.css" crc="229704146" ref="index"/>
+    <file name="nomq_index.css" crc="3975583142" ref="index"/>
+    <file name="lyndale.css" crc="192954717" ref="lyndale"/>
+    <file name="nomq_lyndale.css" crc="70626995" ref="lyndale"/>
+    <file name="millennial.css" crc="3946382140" ref="millennial"/>
+    <file name="nomq_millennial.css" crc="4090353762" ref="millennial"/>
+    <file name="pangrams.css" crc="4002084891" ref="pangrams"/>
+    <file name="nomq_pangrams.css" crc="3763052578" ref="pangrams"/>
+    <file name="modern.css" crc="4247123721" ref="modern"/>
+    <file name="nomq_modern.css" crc="4130156152" ref="modern"/>
+    <file name="ambicase.css" crc="146796509" ref="ambicase"/>
+    <file name="nomq_ambicase.css" crc="3781480312" ref="ambicase"/>
+    <file name="feneon.css" crc="4214070320" ref="feneon"/>
+    <file name="nomq_feneon.css" crc="4215114694" ref="feneon"/>
+    <file name="backflip.css" crc="84797793" ref="backflip"/>
+    <file name="nomq_backflip.css" crc="4085722646" ref="backflip"/>
+    <file name="strooptest.css" crc="3857296864" ref="strooptest"/>
+    <file name="nomq_strooptest.css" crc="4007682992" ref="strooptest"/>
+    <file name="classification.css" crc="3986275754" ref="classification"/>
+    <file name="nomq_classification.css" crc="424083932" ref="classification"/>
+  </folder>
+  <folder name="assets">
+    <file name="javascript.js" crc="144188455" seo="true" mt="1494127201000"/>
+    <file name="eliasoncv.pdf" crc="3905001449" seo="true" mt="1494295562000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="museutils.js" crc="340535759" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="webpro.js" crc="4059564322" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:strooptest:backflip:millennial:ambicase:lyndale:feneon"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="require.js" crc="7928878" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+  </folder>
+  <folder name="images">
+    <file name="main-master-favicon.ico" crc="3998744931" ref="index"/>
+    <file name="slideshow_0010_mill-draft.jpg" crc="3946677643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:pangrams:strooptest:backflip:millennial:ambicase:modern:classification:lyndale:feneon"/>
+    <file name="slideshow_0011_hist-trans.jpg" crc="3997431420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0012_pang-dixie.jpg" crc="4258380766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0013_flip-cyr.jpg" crc="4175034019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0000_hist-didone.jpg" crc="259449783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0001_mill-moxon.jpg" crc="190795634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0002_flip-draft.jpg" crc="83254539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0003_ftn-exh.jpg" crc="89785492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0004_hist-greek.jpg" crc="4132174713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0005_ambi-catalog.jpg" crc="515541639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0006_mill-det.jpg" crc="4275060110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0007_pang-convy.jpg" crc="391269451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0008_hist-unicase.jpg" crc="4070676819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slideshow_0009_flip-drink.jpg" crc="483940906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="backflip background.jpg" crc="435889446" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_0003_ambicase_normal-u866-fr.png" crc="141806153" ref="index"/>
+    <file name="_0007_ambicase_hover.png" crc="90936422" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_0001_backflip_normal-u869-fr.png" crc="185744587" ref="index"/>
+    <file name="_0005_backflip_hover.png" crc="4224723370" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_0005_feneon_normal-u58091-fr.png" crc="199975461" ref="index"/>
+    <file name="_0000_feneon_hover-u58091-r-fr.png" crc="4286353640" ref="index"/>
+    <file name="_0006_lyndale_normal-u58079-fr.png" crc="4058800286" ref="index"/>
+    <file name="_0001_lyndale_hover-u58079-r-fr.png" crc="4148923481" ref="index"/>
+    <file name="_0002_millennial_normal-u872-fr.png" crc="254869362" ref="index"/>
+    <file name="_0006_millennial_hover-u872-r-fr.png" crc="192414826" ref="index"/>
+    <file name="_0000_strooptest_normal-u875-fr.png" crc="4255814564" ref="index"/>
+    <file name="_0004_strooptest_hover.png" crc="3838377392" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile5.jpg" crc="424734282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pollock background.png" crc="215780171" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="letterpress pangram-u4270-fr.png" crc="3872541628" ref="index"/>
+    <file name="st_thomas_campus.jpg" crc="475034794" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_0003_ambicase_normal-u866-fr2.png" crc="215889289" ref="index"/>
+    <file name="_0007_ambicase_hover-u866-r-fr.png" crc="267731699" ref="index"/>
+    <file name="_0001_backflip_normal-u869-fr2.png" crc="4027839309" ref="index"/>
+    <file name="_0005_backflip_hover-u869-r-fr.png" crc="3788955364" ref="index"/>
+    <file name="_0005_feneon_normal-u58091-fr2.png" crc="438028609" ref="index"/>
+    <file name="_0000_feneon_hover-u58091-r-fr2.png" crc="3986596691" ref="index"/>
+    <file name="_0006_lyndale_normal-u58079-fr2.png" crc="4075071874" ref="index"/>
+    <file name="_0001_lyndale_hover-u58079-r-fr2.png" crc="3783418122" ref="index"/>
+    <file name="_0002_millennial_normal-u872-fr2.png" crc="174063315" ref="index"/>
+    <file name="_0006_millennial_hover-u872-r-fr2.png" crc="288163849" ref="index"/>
+    <file name="_0000_strooptest_normal-u875-fr2.png" crc="255070297" ref="index"/>
+    <file name="_0004_strooptest_hover-u875-r-fr.png" crc="4179582830" ref="index"/>
+    <file name="letterpress pangram-u4270-fr2.png" crc="3937208233" ref="index"/>
+    <file name="_0003_ambicase_normal-u866-fr3.png" crc="139438987" ref="index"/>
+    <file name="_0007_ambicase_hover-u866-r-fr2.png" crc="3903190844" ref="index"/>
+    <file name="_0001_backflip_normal-u869-fr3.png" crc="3867374246" ref="index"/>
+    <file name="_0005_backflip_hover-u869-r-fr2.png" crc="3814144509" ref="index"/>
+    <file name="_0005_feneon_normal-u58091-fr3.png" crc="185901466" ref="index"/>
+    <file name="_0000_feneon_hover-u58091-r-fr3.png" crc="3938782371" ref="index"/>
+    <file name="_0006_lyndale_normal-u58079-fr3.png" crc="330081042" ref="index"/>
+    <file name="_0001_lyndale_hover-u58079-r-fr3.png" crc="161100205" ref="index"/>
+    <file name="_0002_millennial_normal-u872-fr3.png" crc="4028466353" ref="index"/>
+    <file name="_0006_millennial_hover-u872-r-fr3.png" crc="3984856544" ref="index"/>
+    <file name="_0000_strooptest_normal-u875-fr3.png" crc="289189143" ref="index"/>
+    <file name="_0004_strooptest_hover-u875-r-fr2.png" crc="284202469" ref="index"/>
+    <file name="letterpress pangram-u26267-fr.png" crc="165770476" ref="index"/>
+    <file name="_0003_ambicase_normal-u866-fr4.png" crc="161639870" ref="index"/>
+    <file name="_0007_ambicase_hover-u866-r-fr3.png" crc="3865176358" ref="index"/>
+    <file name="_0001_backflip_normal-u869-fr4.png" crc="3913565240" ref="index"/>
+    <file name="_0005_backflip_hover-u869-r-fr3.png" crc="4197744383" ref="index"/>
+    <file name="_0005_feneon_normal-u58091-fr4.png" crc="3982963837" ref="index"/>
+    <file name="_0000_feneon_hover-u58091-r-fr4.png" crc="229217523" ref="index"/>
+    <file name="_0006_lyndale_normal-u58079-fr4.png" crc="184582365" ref="index"/>
+    <file name="_0001_lyndale_hover-u58079-r-fr4.png" crc="383852534" ref="index"/>
+    <file name="_0002_millennial_normal-u872-fr4.png" crc="114501383" ref="index"/>
+    <file name="_0006_millennial_hover-u872-r-fr4.png" crc="90457580" ref="index"/>
+    <file name="_0000_strooptest_normal-u875-fr4.png" crc="92152291" ref="index"/>
+    <file name="_0004_strooptest_hover-u875-r-fr3.png" crc="3860615644" ref="index"/>
+    <file name="strooptest prototype specimen.jpg" crc="497948213" ref="strooptest">
+      <caption webpage="strooptest" alt=""/>
+      <caption webpage="strooptest" alt=""/>
+      <caption webpage="strooptest" alt=""/>
+    </file>
+    <file name="strooptest prototype specimen-u2837-fr.jpg" crc="66476313" ref="strooptest"/>
+    <file name="backflip specimen.png" crc="4252226546" ref="backflip">
+      <caption webpage="backflip" alt=""/>
+      <caption webpage="backflip" alt=""/>
+      <caption webpage="backflip" alt=""/>
+      <caption webpage="backflip" alt=""/>
+    </file>
+    <file name="backflip specimen-u2831-fr.png" crc="3958313775" ref="backflip"/>
+    <file name="millennial short specimen.png" crc="4149835021" ref="millennial">
+      <caption webpage="millennial" alt=""/>
+      <caption webpage="millennial" alt=""/>
+      <caption webpage="millennial" alt=""/>
+      <caption webpage="millennial" alt=""/>
+    </file>
+    <file name="millennial short specimen-u2825-fr.png" crc="513738253" ref="millennial"/>
+    <file name="ambicasefatfacespecimenanduserguide.png" crc="196214766" ref="ambicase">
+      <caption webpage="ambicase" alt=""/>
+      <caption webpage="ambicase" alt=""/>
+      <caption webpage="ambicase" alt=""/>
+      <caption webpage="ambicase" alt=""/>
+      <caption webpage="ambicase" alt=""/>
+    </file>
+    <file name="2-bodonipage-crop-u3517.png" crc="154365103" seo="true" ref="modern">
+      <caption webpage="modern" alt=""/>
+    </file>
+    <file name="2-bodonipage-crop-u35172.png" crc="3779383245" seo="true" ref="modern">
+      <caption webpage="modern" alt=""/>
+    </file>
+    <file name="vox-crop-u3507.png" crc="3928964778" seo="true" ref="classification">
+      <caption webpage="classification" alt=""/>
+    </file>
+    <file name="vox-crop-u35072.png" crc="521775685" seo="true" ref="classification">
+      <caption webpage="classification" alt=""/>
+    </file>
+    <file name="lyndale specimen-u57558-fr.png" crc="55678975" ref="lyndale"/>
+    <file name="lyndale specimen-u57558-fr2.png" crc="3979300768" ref="lyndale"/>
+    <file name="lyndale specimen-u57558-fr3.png" crc="237072647" ref="lyndale"/>
+    <file name="lyndale specimen-u57558-fr4.png" crc="3906706552" ref="lyndale"/>
+    <file name="lyndale specimen-u57558-fr5.png" crc="4108722701" ref="lyndale"/>
+    <file name="feneon specimen copy.png" crc="263527764" ref="feneon">
+      <caption webpage="feneon" alt=""/>
+      <caption webpage="feneon" alt=""/>
+      <caption webpage="feneon" alt=""/>
+      <caption webpage="feneon" alt=""/>
+    </file>
+    <file name="feneon specimen copy-u57762-fr.png" crc="71546854" ref="feneon"/>
+  </folder>
+  <file name="index.html" crc="3929050474" seo="true" mt="1563513416045" redirect="true"/>
+  <file name="pangrams.html" crc="3879615282" seo="true" mt="1563513001854" redirect="true"/>
+  <file name="strooptest.html" crc="4036806552" seo="true" mt="1563513195364" redirect="true"/>
+  <file name="backflip.html" crc="88861614" seo="true" mt="1563513294762" redirect="true"/>
+  <file name="millennial.html" crc="212544713" seo="true" mt="1563513174773" redirect="true"/>
+  <file name="ambicase.html" crc="3916463802" seo="true" mt="1563513102548" redirect="true"/>
+  <file name="modern.html" crc="4267362103" seo="true" mt="1563513001854" redirect="true"/>
+  <file name="classification.html" crc="252721549" seo="true" mt="1563513001854" redirect="true"/>
+  <file name="lyndale.html" crc="403588541" seo="true" mt="1563513161111" redirect="true"/>
+  <file name="feneon.html" crc="4171923728" seo="true" mt="1563513143982" redirect="true"/>
+</manifest>
